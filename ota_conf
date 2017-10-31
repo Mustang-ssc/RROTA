@@ -6,8 +6,8 @@
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 # * Chances are you only need to change the ota_url in this file 
 #
-ota_url=https://raw.githubusercontent.com/romilparh/OTA/master/romil.xml
-release_type=Stable
+ota_url=https://raw.githubusercontent.com/Mustang-ssc/OTA/master/mustang.xml
+release_type=Test
 device_name=ro.rr.device
  
 #
